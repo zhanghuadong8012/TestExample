@@ -2,3 +2,12 @@ hello,
 this is a test file.
 
 add another line.
+
+
+git step:
+
+1.git init
+2.git add file1.txt
+3.git commit -m "Init Project"
+4.git remote add TestExample https://github.com/zhanghuadong8012/TestExample
+5.git push --set-upstream TestExample master
